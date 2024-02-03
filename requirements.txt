@@ -1,0 +1,2 @@
+python-keycloak==3.7.0
+wait-for-it==2.2.2
